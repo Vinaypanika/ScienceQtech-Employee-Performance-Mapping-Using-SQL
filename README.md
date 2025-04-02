@@ -36,7 +36,7 @@ For an employee with experience less than or equal to 2 years assign 'JUNIOR DAT
 For an employee with the experience of 2 to 5 years assign 'ASSOCIATE DATA SCIENTIST' \
 For an employee with the experience of 5 to 10 years assign 'SENIOR DATA SCIENTIST' \
 For an employee with the experience of 10 to 12 years assign 'LEAD DATA SCIENTIST' \
-For an employee with the experience of 12 to 16 years assign 'MANAGER' \
+For an employee with the experience of 12 to 16 years assign 'MANAGER' 
 
 Created an index to improve the cost and performance of the query to find the employee whose FIRST_NAME is ‘Eric’ in the employee table after checking the execution plan.
 
