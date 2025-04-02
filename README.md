@@ -32,7 +32,7 @@ Wrote a query using stored functions in the project table to check whether the j
 
 The standard being:
 
--- For an employee with experience less than or equal to 2 years assign 'JUNIOR DATA SCIENTIST'
+-- For an employee with experience less than or equal to 2 years assign 'JUNIOR DATA SCIENTIST' \
 -- For an employee with the experience of 2 to 5 years assign 'ASSOCIATE DATA SCIENTIST'
 -- For an employee with the experience of 5 to 10 years assign 'SENIOR DATA SCIENTIST'
 -- For an employee with the experience of 10 to 12 years assign 'LEAD DATA SCIENTIST'
